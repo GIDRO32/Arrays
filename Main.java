@@ -15,7 +15,6 @@ public class Main {
      */
 
     /* Main Function
-    1. Print program name method
     2. getUserArray
     4. printArrayOrder
     5. Prompt continue. If yes, go to #2, else exit
