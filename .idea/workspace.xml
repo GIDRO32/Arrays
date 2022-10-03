@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="228e19b1-5caa-441d-b9c2-57ce0a618469" name="Changes" comment="Removing line">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="228e19b1-5caa-441d-b9c2-57ce0a618469" name="Changes" comment="Add file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -36,14 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pambo/IdeaProjects/Arrays"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Arrays" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -67,7 +75,13 @@
       <updated>1664179642169</updated>
       <workItem from="1664179643389" duration="284000" />
       <workItem from="1664180715734" duration="2753000" />
-      <workItem from="1664200150208" duration="1992000" />
+      <workItem from="1664200150208" duration="2815000" />
+      <workItem from="1664210719970" duration="1351000" />
+      <workItem from="1664276154139" duration="132000" />
+      <workItem from="1664718636780" duration="50000" />
+      <workItem from="1664720358552" duration="1406000" />
+      <workItem from="1664804414850" duration="1614000" />
+      <workItem from="1664817712635" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Removing line">
       <created>1664200188430</created>
@@ -76,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664200188430</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add file">
+      <created>1664202178421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664202178421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removing line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing line" />
+    <MESSAGE value="Add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
   </component>
 </project>

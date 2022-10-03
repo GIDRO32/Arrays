@@ -33,7 +33,8 @@ public class Main {
 
 
     // Method to get the user input with a custom prompt
-    public static String getUserInput(String prompt) {
+    public static String getUserInput(String prompt)
+    {
         print(prompt);
         Scanner scan = new Scanner(System.in);
         return scan.nextLine().trim().toLowerCase();
@@ -83,7 +84,7 @@ public class Main {
 
     }
 
-    public static boolean toContinue() {
+    public static boolean isContinue() {
         String userInput = getUserInput("Do you want to continue? (Y/N)\n");
         return userInput.equalsIgnoreCase("Y");
     }
@@ -93,6 +94,6 @@ public class Main {
             int[] arr;
             arr = getUserArray();
             printArrayOrder(arr);
-        } while (toContinue());
+        } while (isContinue());
     }
 }
